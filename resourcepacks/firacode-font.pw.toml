@@ -1,0 +1,13 @@
+name = "FiraCode Font"
+filename = "FiraCode Font.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6GTW5R5I/versions/TBB7Fd6F/FiraCode%20Font.zip"
+hash-format = "sha512"
+hash = "af78cdb52d5282acc47ca1df8d8dcf4ccc085614257ffc9268db3ba99afccd5fae34a54d51aecd34710f2b4db78f9d9aa9bc63d1b7eca179ea9f5e0c6cb3d71f"
+
+[update]
+[update.modrinth]
+mod-id = "6GTW5R5I"
+version = "TBB7Fd6F"

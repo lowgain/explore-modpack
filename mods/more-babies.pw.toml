@@ -1,0 +1,13 @@
+name = "More Babies"
+filename = "more_babies-fabric-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZK4bBM3B/versions/VQggj5jA/more_babies-fabric-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "3fe6403ee9fe7adecf92e7a4986486d021487bdce9e1e64b6192c2e1bcb45d53f866ab3f96e2440249606c98263dd454668af5c3b82d6df4e89111675e01bd15"
+
+[update]
+[update.modrinth]
+mod-id = "ZK4bBM3B"
+version = "VQggj5jA"

@@ -1,0 +1,13 @@
+name = "FleshZ"
+filename = "fleshz-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6EdNfDXb/versions/S1tMRK4N/fleshz-1.6.1.jar"
+hash-format = "sha512"
+hash = "67ac1437cb1733364757727005bb766c6a7ad2756efa26540c653cb21d802497fb67e23a5f4ed646edb6828463b3facb89fcec4b02b330b77a60d3730831822c"
+
+[update]
+[update.modrinth]
+mod-id = "6EdNfDXb"
+version = "S1tMRK4N"

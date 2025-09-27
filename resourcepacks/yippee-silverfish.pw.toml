@@ -1,0 +1,13 @@
+name = "Yippee Silverfish"
+filename = "yippee-silverfish-mc-1-21-7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qTLd4BcN/versions/sI9Y01mA/yippee-silverfish-mc-1-21-7.zip"
+hash-format = "sha512"
+hash = "6a96c750de30bf08cbb6fa591c37682972c0ff1b6596e55693fe2bbb30d2f5946d3f68f6177dc3e1268f0fc02e6ba48dfdb22ec4442941ce3db01eba0e8b1ed7"
+
+[update]
+[update.modrinth]
+mod-id = "qTLd4BcN"
+version = "sI9Y01mA"

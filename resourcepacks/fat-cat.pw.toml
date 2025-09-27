@@ -1,0 +1,13 @@
+name = "Fat Cat"
+filename = "Fat Cat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9ka8nUio/versions/APZ38UeW/Fat%20Cat.zip"
+hash-format = "sha512"
+hash = "63c735994755a4f9ad9b111c2e0c604a76ef035ba777c89e929546ffd04b6ba7f1b088e8c6de5e6b4aa4b433398b008a488508f9e6b655affcdf48f67f8cfb50"
+
+[update]
+[update.modrinth]
+mod-id = "9ka8nUio"
+version = "APZ38UeW"
