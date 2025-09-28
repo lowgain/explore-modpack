@@ -405,11 +405,6 @@ hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "5295b04ce2d1cd0953acb201990dc5a78b3a334f127ab8cadbdcb83d3f4bc301"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
 metafile = true
@@ -587,11 +582,6 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "d9221689ffa47dcd27e6c0590ba7b3227f83d48a6e9592cd09e1835f143d793a"
-metafile = true
-
-[[files]]
-file = "mods/melody.pw.toml"
-hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
 metafile = true
 
 [[files]]
