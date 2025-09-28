@@ -170,11 +170,6 @@ hash = "796c28baec98b91ac98449364c0a6786201f01580a777bcecacb137c1e2c6309"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
@@ -817,11 +812,6 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
-metafile = true
-
-[[files]]
-file = "mods/tide.pw.toml"
-hash = "8f192d827654b0d6ecb1afbe0d2f805adc929a67f720dce3ee88b9ffe106693f"
 metafile = true
 
 [[files]]
