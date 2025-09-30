@@ -165,11 +165,6 @@ hash = "321543ed29b59b94b29cb25230bde53a023024a626d5886d39fe00620add0e72"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "796c28baec98b91ac98449364c0a6786201f01580a777bcecacb137c1e2c6309"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
