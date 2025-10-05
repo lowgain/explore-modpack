@@ -196,11 +196,6 @@ hash = "447ec530620e3c0da62316cb3358e43c15132084aab22ba992fefac199ca92a9"
 metafile = true
 
 [[files]]
-file = "mods/durability-tooltip.pw.toml"
-hash = "5b68880f4f5606aa7848d5b1ed9fbb7351a41094a3e5d1090d943b85a5d8bc0a"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "4effaea1cdc0ccd0de4a94ab435cc3cb22085933fca7e1dd35b9fb8953a1ce9e"
 metafile = true
@@ -613,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/qraftyfied.pw.toml"
 hash = "32a96a971a60edad0a8f37e91c8b90a06d2523b7d5f4825c8d4b953d3aaf6800"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
