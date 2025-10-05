@@ -1,0 +1,13 @@
+name = "FastBoot"
+filename = "fastboot-1.21.x-v1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nRL5uFe0/versions/xBc6DnIf/fastboot-1.21.x-v1.3.jar"
+hash-format = "sha512"
+hash = "06cf70a16ada04f1eb6739a024ae62d086441f01e675aa89211176a131dc4aaf480563cfbf53a4d62650fe81148afa59377a526cc61cae967f9188ee25a822fb"
+
+[update]
+[update.modrinth]
+mod-id = "nRL5uFe0"
+version = "xBc6DnIf"
