@@ -51,6 +51,11 @@ hash = "47aaa2693fff2f75cc994e2398a751ae1da4d78f77c979c1f7f8c906a4f32dbf"
 metafile = true
 
 [[files]]
+file = "mods/bat-membrane.pw.toml"
+hash = "dc3b10f9bbdd9a123830d6eda5808978e37381308103f0605f023a57d43bfea7"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
